@@ -1,0 +1,13 @@
+
+src/main/java/com/xxx/commonservice/service/
+target/
+out/
+!.mvn/wrapper/maven-wrapper.jar
+classes/
+*.depend
+src/main/java/com/xxx/commonservice/service/*
+
+.idea
+*.iws
+*.iml
+*.ipr
